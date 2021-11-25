@@ -1,3 +1,4 @@
+@api
 Feature: Testando Api de premio nobel
 
 Background: api de premio nobel
